@@ -1,0 +1,2 @@
+ENDPOINT_URL = 'http://example.com/put.php'
+HUB_PASSWORD = 'passwordgoeshere'
